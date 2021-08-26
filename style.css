@@ -75,6 +75,37 @@ p {
   margin: 0 auto;
 }
 
+.education {
+  padding: 170px 60px;
+  width: 60%;
+  margin: 0 auto;
+  background-color: #ffa9a6;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h4 {
+  font-size: 35px;
+  text-shadow: 1px 1px 5px white;
+  display: block;
+  margin-top: -3em;
+  margin-bottom: 0em;
+  margin-left: 300px;
+  margin-right: 0;
+  
+}
+
+ul {
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+}
+
+.empty {
+  padding: 60px;
+}
+
 /* Här är styling för footern på sidan */
 footer {
   background-color: #fbcfcd;
